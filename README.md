@@ -132,14 +132,14 @@ There were ~7% user did not provide gender information and most of them (14%) ar
 
 ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/short-term_VS_annual.PNG)
 
-## Weekdays vs Weekend Ridership
+### (4) Weekdays vs Weekend Ridership
 
 * Popular to contrary belief, more bikers ride during weekdays than during weekend which might be because of commute to work
 
 ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Weekday_ridership.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Weekend_ridership.PNG)
 
 
-## Popular start vs stop locations
+### (5) Popular start vs stop locations
 
 * Both popular start and stop location is "Pershing Square North"
 
