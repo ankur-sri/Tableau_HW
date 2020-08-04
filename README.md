@@ -12,7 +12,7 @@
 A analysis for the New York Citi Bike Program, in which responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States
  in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey
  
-* Click [here](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Overall-2018_dashboard.PNG) to view completed dashboard
+* Click [here](https://public.tableau.com/profile/ankur1207#!/vizhome/CitiBike_Data_2018_analysis_2020/Dashboard2018summarydata?publish=yes) to view completed dashboard
 
 ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Popular-end-locations.PNG)
 
@@ -126,7 +126,7 @@ There were ~7% user did not provide gender information and most of them (14%) ar
 
 ### (2) Females show significantly more interest in riding bikes during summers 
 
-![alt text]https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/female_ridership.PNG
+![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/female_ridership.PNG)
 
 ### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2018. Also, there is a sharp decline in short-term membership in Winters than in Summers while long term membership numbers show no such effect.
 
@@ -134,21 +134,21 @@ There were ~7% user did not provide gender information and most of them (14%) ar
 
 ## Weekdays vs Weekend Ridership
 
-* Popular to contrary belief, more bikers ride during weekdays than during weekend which might be because of commuting to work
+* Popular to contrary belief, more bikers ride during weekdays than during weekend which might be because of commute to work
 
 ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Weekday_ridership.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Weekend_ridership.PNG)
 
 
 ## Popular start vs stop locations
 
-* Both popular start and stop location is "Pershing North Square"
+* Both popular start and stop location is "Pershing Square North"
 
 ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Popular-starting-locations.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Popular-end-locations.PNG)
 
 
 ## Technology Used
 
-<img src="https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/1200px-Pandas_logo.svg.png" width="240" height="60"/>
+<img src="https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/1200px-Pandas_logo.svg.png" width="240" height="80"/>
 
 <img src="https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/python%20logo.png" width="240" height="50"/>
 
