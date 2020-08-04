@@ -38,56 +38,56 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </thead>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201901-citibike-tripdata.csv.zip">JC-201701-citibike-tripdata.csv.zip</a></td>
-<td>Apr 6th 2017, 02:01:43 pm</td>
-<td>255 KB</td>
+<td>Feb 11th 2019, 08:43:41 am</td>
+<td>506 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201902-citibike-tripdata.csv.zip">JC-201702-citibike-tripdata.csv.zip</a></td>
-<td>Apr 6th 2017, 02:01:44 pm</td>
-<td>275 KB</td>
+<td>Mar 4th 2019, 10:21:48 am</td>
+<td>480 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201903-citibike-tripdata.csv.zip">JC-201703-citibike-tripdata.csv.zip</a></td>
-<td>Apr 6th 2017, 02:01:44 pm</td>
-<td>241 KB</td>
+<td>Apr 15th 2019, 01:34:52 pm</td>
+<td>609 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201904-citibike-tripdata.csv.zip">JC-201704-citibike-tripdata.csv.zip</a></td>
-<td>Aug 1st 2017, 09:20:54 am</td>
-<td>432 KB</td>
+<td>May 6th 2019, 02:07:33 pm</td>
+<td>847 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201905-citibike-tripdata.csv.zip">JC-201705-citibike-tripdata.csv.zip</a></td>
-<td>Aug 1st 2017, 09:20:55 am</td>
-<td>529 KB</td>
+<td>Jul 15th 2019, 12:42:09 pm</td>
+<td>1.02 MB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201906-citibike-tripdata.csv.zip">JC-201706-citibike-tripdata.csv.zip</a></td>
-<td>Aug 1st 2017, 09:20:56 am</td>
-<td>647 KB</td>
+<td>Aug 5th 2019, 04:34:01 pm</td>
+<td>1.13 MB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201907-citibike-tripdata.csv.zip">JC-201707-citibike-tripdata.csv.zip</a></td>
-<td>Aug 1st 2017, 09:20:57 am</td>
-<td>676 KB</td>
+<td>Sep 18th 2019, 03:33:15 pm</td>
+<td>1.26 MB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip">JC-201708 citibike-tripdata.csv.zip</a></td>
-<td>Oct 3rd 2017, 08:52:49 am</td>
-<td>711 KB</td>
+<td>Dec 20th 2019, 12:44:56 pm</td>
+<td>781 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/201909-citibike-tripdata.csv.zip">JC-201709-citibike-tripdata.csv.zip</a></td>
-<td>Oct 3rd 2017, 08:52:49 am</td>
-<td>667 KB</td>
+<td>Jan 21st 2020, 03:23:33 pm</td>
+<td>505 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
@@ -117,12 +117,12 @@ There were ~7% user did not provide gender information and most of them (14%) ar
 ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Overall-2018.PNG)
 
 
-## Findings 
+## Findings
 
 
 ### (1) The current major citi bike riders fall into males category but number of female riders increase over time as they are showing interest to start riding.
 
-![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Gender-Weekday.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Gender-Weekend.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/All_gender_rides.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/female_ridership.PNG)
+![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Gender-Weekday.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/Gender-Weekend.PNG) ![alt text](https://github.com/ankur-sri/Tableau_HW/blob/master/Photos/All_gender_rides.PNG)
 
 ### (2) Females show significantly more interest in riding bikes during summers 
 
